@@ -111,7 +111,7 @@ a {
   padding: 0 .1em;
 }
 
-a:hover {
+a:hover, :target a.internal-link {
   color: var(--couleur-texte-sur-accent);
   box-shadow: inset 0 -1.3em var(--couleur-accent);
 }
