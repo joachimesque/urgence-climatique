@@ -86,6 +86,11 @@ header {
   margin-bottom: 10vh;
 }
 
+#toc ul {
+  font-size: 1.5em;
+  font-weight: bold;
+}
+
 a {
   color: var(--couleur-texte);
   text-decoration: none;

@@ -21,6 +21,9 @@
         <p>Depuis des décennies, des années, des mois, nous tirons le signal d’alarme.</p>
         <p><strong>Il est temps de déclarer l’état d’urgence climatique.</strong></p>
     </section>
+    <section id="toc">
+        <h2>Au sommaire</h2>
+    </section>
     <section>
         <h2 id="cest-quoi-letat-durgence-climatique">C’est quoi l’état d’urgence climatique&nbsp;?</h2>
         <p>Parfois, nos problèmes deviennent si gros que seule une action drastique peut y répondre.</p>
@@ -374,20 +377,42 @@
     </footer>
 
     <script>
-        document.addEventListener("DOMContentLoaded", function() {
-            const titlesToLink = document.querySelectorAll('h2[id], h3[id], h4[id]');
-            [].forEach.call(titlesToLink, function(el) {
-                const titleLink = el.id;
-                console.log(titleLink)
-                const linkElement = document.createElement("a");
-                linkElement.classList.add('internal-link');
-                linkElement.href = '#' + titleLink;
-                linkElement.title = 'lien permanent';
-                linkElement.text = '#';
-                el.appendChild(linkElement);
-            })
+    document.addEventListener("DOMContentLoaded", function() {
+        var hash = window.location.hash.substr(1);
+        if (hash) {
+            var targetElement = document.getElementById(hash);
+            var detailsAncestor = targetElement.parentNode.parentNode;
+            if (targetElement &&
+                detailsAncestor.nodeName.toLowerCase() === 'details') {
+                detailsAncestor.setAttribute('open', true);
+            }
+        }
 
-        });
+        var titlesToToc = document.querySelectorAll('h2[id]');
+        var tocList = document.createElement('ul');
+        [].forEach.call(titlesToToc, function(el) {
+            // Create TOC based on these links
+            var tocItem = document.createElement('li');
+            var tocLink = document.createElement('a');
+            tocLink.href = '#' + el.id;
+            tocLink.text = el.innerText;
+            tocItem.appendChild(tocLink);
+            tocList.appendChild(tocItem);
+        })
+        document.getElementById('toc').appendChild(tocList);
+
+        var titlesToLink = document.querySelectorAll('h2[id], h3[id], h4[id]');
+        [].forEach.call(titlesToLink, function(el) {
+            // Create link after each title
+            var linkElement = document.createElement('a');
+            linkElement.classList.add('internal-link');
+            linkElement.href = '#' + el.id;
+            linkElement.title = 'lien permanent';
+            linkElement.text = '#';
+            el.appendChild(linkElement);
+        })
+
+    });
     </script>
 </body>
 
