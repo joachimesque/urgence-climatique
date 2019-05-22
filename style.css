@@ -1,0 +1,185 @@
+body {
+  --couleur-texte: #FFF;
+  --couleur-accent: #0F8;
+  --couleur-fond: #001;
+  --couleur-texte-sur-accent: #000;
+  --couleur-accent-transparent: hsla(150deg,100%,50%,.3);
+}
+
+@font-face {
+    font-family: 'Inter';
+    src: url('fonts/subset-Inter-MediumItalic.woff2') format('woff2');
+    font-weight: 500;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'Inter';
+    src: url('fonts/subset-Inter-Medium.woff2') format('woff2');
+    font-weight: 500;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Inter';
+    src: url('fonts/subset-Inter-ExtraBold.woff2') format('woff2');
+    font-weight: 800;
+    font-style: normal;
+}
+
+/* @font-face {
+    font-family: 'Inter';
+    src: url('fonts/subset-Inter-SemiBold.woff2') format('woff2');
+    font-weight: 600;
+    font-style: normal;
+} */
+
+@font-face {
+    font-family: 'Inter';
+    src: url('fonts/subset-Inter-Bold.woff2') format('woff2');
+    font-weight: bold;
+    font-style: normal;
+}
+
+body {
+  max-width: 60ch;
+  background-color: var(--couleur-fond);
+  color:  var(--couleur-texte);
+  margin: 20vh auto;
+  padding:0 1em;
+  font:24px/1.5 Inter,-apple-system,BlinkMacSystemFont,"avenir next",avenir,"Segoe UI","lucida grande","helvetica neue",helvetica,"Fira Sans",roboto,noto,"Droid Sans",cantarell,oxygen,ubuntu,"franklin gothic medium","century gothic","Liberation Sans",sans-serif;
+  font-weight: 500;
+}
+
+h1, h2, h3, h4, h5 {
+  font-weight: 800;
+}
+
+h1 { font-size: 4em; line-height: 1.05; margin-bottom: .1em; }
+h2 { font-size: 2em; line-height: 1.15; }
+h3 { font-size: 1.66em; line-height: 1.3; }
+h4 { font-size: 1.33em; }
+h5 { font-size: 1.1em; }
+
+::selection {
+  background-color: var(--couleur-accent);
+  color: var(--couleur-texte-sur-accent);
+}
+
+header {
+  margin-left: -1em;
+  padding-left: 1.5em;
+  border-left: .5em solid var(--couleur-accent);
+  margin-bottom: 10vh;
+}
+
+a {
+  color: var(--couleur-texte);
+  text-decoration: none;
+  box-shadow: inset 0 -0.1em var(--couleur-accent);
+  transition:  all .3s ease;
+  padding: 0 .1em;
+}
+
+a:hover {
+  color: var(--couleur-texte-sur-accent);
+  box-shadow: inset 0 -1.3em var(--couleur-accent);
+}
+
+blockquote {
+  font-style: italic;
+  border-left: #777 3px solid;
+  margin-left: .2em;
+  padding-left: 1em;
+}
+
+ul, ol {
+  margin-left: 0;
+}
+
+details {
+  margin-bottom: 1em;
+}
+
+details[open] {
+  margin-bottom: 2em;
+}
+
+summary {
+  cursor: pointer;
+  transition: color .2s ease;
+}
+
+summary:hover, ::-webkit-details-marker {
+  color: var(--couleur-texte);
+}
+
+summary > * {
+  display: inline;
+  box-shadow: inset 0 -0.6em var(--couleur-accent-transparent);
+  transition:  all .3s ease;
+  padding: 0 .1em;
+}
+summary:hover > * {
+  box-shadow: inset 0 -1.4em var(--couleur-accent-transparent);
+}
+
+details[open] > summary + * {
+  border-left: 1px solid;
+  padding: 0 0 .001em 1.8em;
+  margin-left: .3em;
+}
+
+
+li + li {
+  margin-top: .3em;
+}
+
+section {
+  margin-top: 18vh;
+}
+
+:not(h3):not(h4) + h2,
+:not(h2):not(h3):not(h4) + h3,
+:not(h2):not(h3):not(h4) + h4 {
+  margin-top: 2em;
+}
+
+li > blockquote {
+  margin-left: 1em;
+}
+
+.sous-titre {
+  margin: 0;
+  font-size: 1.8em;
+  line-height: 1.2;
+}
+
+.intro {
+  font-size: 1.2em;
+  line-height: 1.4;
+}
+
+hr {
+  margin: 3em 0;
+  height: 1em;
+  border-style: hidden;
+  color: var(--couleur-fond);
+  background-color: var(--couleur-fond);
+}
+
+footer {
+  text-align: center;
+}
+
+@media (max-width: 800px) {
+  body {
+    font-size: 16px;
+  }
+
+  h1 { font-size: 3em; line-height: 1.05; margin-bottom: 0; }
+  h2 { font-size: 1.66em; }
+  h3 { font-size: 1.33em; }
+  h4 { font-size: 1.1em; }
+  h5 { font-size: 1em; font-weight: 500; }
+}
