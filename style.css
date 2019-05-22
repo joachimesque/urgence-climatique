@@ -72,6 +72,18 @@ h5 { font-size: 1.1em; }
   text-align: center;
   box-sizing: border-box;
   margin-left: .4rem;
+  position: absolute;
+  left: -3rem;
+  top: 1rem;
+}
+
+summary .internal-link {
+  left: calc(-1 * (3rem + 33px));
+}
+
+small.small-title {
+  font-weight: 500;
+  font-size: .6em;
 }
 
 ::selection {
