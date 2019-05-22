@@ -53,6 +53,7 @@ body {
 
 h1, h2, h3, h4, h5 {
   font-weight: 800;
+  position: relative;
 }
 
 h1 { font-size: 4em; line-height: 1.05; margin-bottom: .1em; }
@@ -60,6 +61,18 @@ h2 { font-size: 2em; line-height: 1.15; }
 h3 { font-size: 1.66em; line-height: 1.3; }
 h4 { font-size: 1.33em; }
 h5 { font-size: 1.1em; }
+
+.internal-link {
+  font-size: .8rem;
+  display: inline-block;
+  vertical-align: middle;
+  font-weight: 500;
+  width: 1rem;
+  line-height: 1rem;
+  text-align: center;
+  box-sizing: border-box;
+  margin-left: .4rem;
+}
 
 ::selection {
   background-color: var(--couleur-accent);

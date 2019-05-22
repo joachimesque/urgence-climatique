@@ -257,7 +257,7 @@
         </ul>
         <details>
             <summary>
-                <h4 id="eelv">Urgence Écologie</h4>
+                <h4 id="ue">Urgence Écologie</h4>
             </summary>
             <p></p>
             <p><a href="https://urgence-ecologie.fr/">urgence-ecologie.fr</a></p>
@@ -372,6 +372,23 @@
             </small>
         </p>
     </footer>
+
+    <script>
+        document.addEventListener("DOMContentLoaded", function() {
+            const titlesToLink = document.querySelectorAll('h2[id], h3[id], h4[id]');
+            [].forEach.call(titlesToLink, function(el) {
+                const titleLink = el.id;
+                console.log(titleLink)
+                const linkElement = document.createElement("a");
+                linkElement.classList.add('internal-link');
+                linkElement.href = '#' + titleLink;
+                linkElement.title = 'lien permanent';
+                linkElement.text = '#';
+                el.appendChild(linkElement);
+            })
+
+        });
+    </script>
 </body>
 
 </html>
