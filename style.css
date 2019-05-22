@@ -27,13 +27,6 @@ body {
     font-style: normal;
 }
 
-/* @font-face {
-    font-family: 'Inter';
-    src: url('fonts/subset-Inter-SemiBold.woff2') format('woff2');
-    font-weight: 600;
-    font-style: normal;
-} */
-
 @font-face {
     font-family: 'Inter';
     src: url('fonts/subset-Inter-Bold.woff2') format('woff2');
