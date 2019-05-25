@@ -11,7 +11,7 @@ body {
     src: url('fonts/subset-Inter-MediumItalic.woff2') format('woff2');
     font-weight: 500;
     font-style: italic;
-    font-display: fallback;
+    font-display: swap;
 }
 
 @font-face {
@@ -19,7 +19,7 @@ body {
     src: url('fonts/subset-Inter-Medium.woff2') format('woff2');
     font-weight: 500;
     font-style: normal;
-    font-display: fallback;
+    font-display: swap;
 }
 
 @font-face {
@@ -27,7 +27,7 @@ body {
     src: url('fonts/subset-Inter-ExtraBold.woff2') format('woff2');
     font-weight: 800;
     font-style: normal;
-    font-display: fallback;
+    font-display: swap;
 }
 
 @font-face {
@@ -35,7 +35,7 @@ body {
     src: url('fonts/subset-Inter-Bold.woff2') format('woff2');
     font-weight: bold;
     font-style: normal;
-    font-display: fallback;
+    font-display: swap;
 }
 
 body {
