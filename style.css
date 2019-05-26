@@ -1,9 +1,9 @@
 body {
   --couleur-texte: #FFF;
-  --couleur-accent: hsl(150deg,100%,50%);
-  --couleur-fond: hsl(240deg,50%, 5%);
+  --couleur-accent: #00ff80 /* hsl(150deg,100%,50%) */;
+  --couleur-fond: #060613 /* hsl(240deg,50%, 5%) */;
   --couleur-texte-sur-accent: #000;
-  --couleur-accent-transparent: hsla(150deg,100%,50%,.3);
+  --couleur-accent-transparent: rgba(0, 255, 128, .3) /* hsla(150deg,100%,50%,.3) */;
 }
 
 @font-face {
@@ -40,8 +40,10 @@ body {
 
 body {
   max-width: 60ch;
-  background-color: hsl(240deg,50%, 5%);
-  color:  #FFF;
+  background-color: #000;
+  background-color: var(--couleur-fond);
+  color: #fff;
+  color: var(--couleur-texte);
   margin: 20vh auto;
   padding:0 1em;
   font:20px/1.5 Inter,-apple-system,BlinkMacSystemFont,"avenir next",avenir,"Segoe UI","lucida grande","helvetica neue",helvetica,"Fira Sans",roboto,noto,"Droid Sans",cantarell,oxygen,ubuntu,"franklin gothic medium","century gothic","Liberation Sans",sans-serif;
@@ -72,7 +74,8 @@ h5 { font-size: 1.1em; }
   position: absolute;
   left: -3rem;
   top: 1rem;
-  box-shadow: inset 0 0 hsl(150deg,100%,50%);
+  box-shadow: inset 0 0 #00ff80;
+  box-shadow: inset 0 0 var(--couleur-accent);
   opacity: .66;
 }
 .internal-link:hover {
@@ -90,14 +93,14 @@ small.small-title {
 }
 
 ::selection {
-  background-color: hsl(150deg,100%,50%);
-  color: #000;
+  background-color: var(--couleur-accent);
+  color: var(--couleur-texte-sur-accent);
 }
 
 header {
   margin-left: -1em;
   padding-left: 1.5em;
-  border-left: .5em solid hsl(150deg,100%,50%);
+  border-left: .5em solid var(--couleur-accent);
   margin-bottom: 10vh;
 }
 
@@ -107,16 +110,16 @@ header {
 }
 
 a {
-  color: #FFF;
+  color: var(--couleur-texte);
   text-decoration: none;
-  box-shadow: inset 0 -0.1em hsl(150deg,100%,50%);
+  box-shadow: inset 0 -0.1em var(--couleur-accent);
   transition:  all .3s ease;
   padding: 0 .1em;
 }
 
 a:hover, :target a.internal-link {
-  color: #000;
-  box-shadow: inset 0 -1.3em hsl(150deg,100%,50%);
+  color: var(--couleur-texte-sur-accent);
+  box-shadow: inset 0 -1.3em var(--couleur-accent);
 }
 
 blockquote {
@@ -144,17 +147,17 @@ summary {
 }
 
 summary:hover, ::-webkit-details-marker {
-  color: #FFF;
+  color: var(--couleur-texte);
 }
 
 summary > * {
   display: inline;
-  box-shadow: inset 0 -0.6em hsla(150deg,100%,50%,.3);
+  box-shadow: inset 0 -0.6em var(--couleur-accent-transparent);
   transition:  all .3s ease;
   padding: 0 .1em;
 }
 summary:hover > * {
-  box-shadow: inset 0 -1.4em hsla(150deg,100%,50%,.3);
+  box-shadow: inset 0 -1.4em var(--couleur-accent-transparent);
 }
 
 details[open] > summary + * {
@@ -197,8 +200,8 @@ hr {
   margin: 3em 0;
   height: 1em;
   border-style: hidden;
-  color: hsl(240deg,50%, 5%);
-  background-color: hsl(240deg,50%, 5%);
+  color: var(--couleur-fond);
+  background-color: var(--couleur-fond);
 }
 
 footer {
