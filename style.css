@@ -138,9 +138,20 @@ summary .internal-link {
   left: calc(-1 * (3rem + 33px));
 }
 
+small {
+  font-size: .8em;
+  line-height: 1.6;
+  display: inline-block;
+}
+
 small.small-title {
   font-weight: 500;
   font-size: .6em;
+}
+
+sub {
+  font-size: .8em;
+  vertical-align: sub;
 }
 
 ::selection {
