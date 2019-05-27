@@ -150,8 +150,13 @@ small.small-title {
 }
 
 sub {
-  font-size: .8em;
+  font-size: .666em;
   vertical-align: sub;
+}
+
+sup {
+  font-size: .666em;
+  vertical-align: super;
 }
 
 ::selection {
