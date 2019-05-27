@@ -232,6 +232,12 @@ details[open] > summary + * {
   margin-left: .3em;
 }
 
+li {
+  margin-left: .666em;
+  padding-left: .666em;
+  list-style-type: "–";
+  list-style-position: outside;
+}
 
 li + li {
   margin-top: .3em;
