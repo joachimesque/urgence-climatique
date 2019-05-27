@@ -232,7 +232,11 @@ details[open] > summary + * {
   margin-left: .3em;
 }
 
-li {
+ol li {
+  list-style: decimal;
+}
+
+ul li {
   margin-left: .666em;
   padding-left: .666em;
   list-style-type: "–";
