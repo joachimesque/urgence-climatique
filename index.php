@@ -41,6 +41,12 @@
     </section>
     <section id="toc">
         <h2>Au sommaire</h2>
+        <p><?php
+                setlocale(LC_TIME, "fr_FR");
+                date_default_timezone_set("Europe/Paris");
+                $last_modified = filemtime(__FILE__);
+                print('Dernière mise à jour le <time datetime="' . date("c", $last_modified) . '">' . strftime("%e %B %Y à %k h %M", $last_modified) . '</time>');
+            ?></p>
     </section>
     <section>
         <h2 id="cest-quoi-letat-durgence-climatique">C’est quoi l’état d’urgence climatique&nbsp;?</h2>
@@ -323,8 +329,7 @@
     <footer>
         <p>
             <small>
-                Dernière mise à jour&nbsp;: <time datetime="2019-05-26 18:59:00.000">26 mai 2019, 18 h 59</time>
-                <br><a href="https://creativecommons.org/licenses/by-nc/4.0/"><abbr title="Licence Creative Commons “Attribution-Non Commercial”">CC by-nc</abbr></a>
+                <a href="https://creativecommons.org/licenses/by-nc/4.0/"><abbr title="Licence Creative Commons “Attribution-Non Commercial”">CC by-nc</abbr></a>
                 <br>Hébergé chez <a href="https://www.infomaniak.com/fr/hebergeur-ecologique">Infomaniak</a>, hébergeur vert
                 <br>Une visite de cette page émet <a href="https://www.websitecarbon.com/website/professeurjoachim-com-urgence-climatique/" hreflang="en">environ 0,14 <abbr title="gramme CO2 équivalent">gCO<sub>2</sub>e</abbr></a> dans l’atmosphère,
                 <br>et elle est <a href="http://www.ecoindex.fr/resultats/?id=38580">notée A sur ecoindex.fr</a>.
