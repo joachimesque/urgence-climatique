@@ -304,8 +304,16 @@
         </ul>
     </section>
     <section>
-        <h2 id="faites-vivre-ce-document">Faites vivre ce document&nbsp;!</h2>
-        <p>Pour m’aider à comprendre tout ça, pour me dire que j’ai tort, pour identifier de nouvelles idées, pour proposer des moyens de continuer le combat, vous pouvez ouvrir une discussion (ou une <i lang="en">issue</i>) sur <a href="https://github.com/joachimesque/urgence-climatique">GitHub:joachimesque/urgence-climatique</a> (nécessite un compte GitHub).
+        <h2 id="faisons-vivre-ce-document">Faisons vivre ce document&nbsp;!</h2>
+        <h3 id="mes-reflexions-sur-le-sujet">Mes réflexions sur le sujet</h3>
+        <p>Cette page a été écrite pour cristalliser mes pensées à un moment donné. Elle est appelée à évoluer au fil de mes lectures, rencontres et discussions. Votre aide est la bienvenue.</p>
+        <p>Pour toutes mes idées et écrits sur l’environnement mais qui ne cadrent pas avec cette page spécifique, j’utilise mon blog. Voilà ce que j’y ai déjà partagé&nbsp;:</p>
+        <ul>
+            <li>10 avril 2019, <a href="https://joachimesque.com/blog/2019-04-10-je-ne-prends-plus-l-avion">Je ne prends plus l’avion (et vous devriez considérer de faire pareil)</a></li>
+            <li>26 mai 2019, <a href="https://joachimesque.com/blog/2019-05-25-reflexions-personnelles-sur-lurgence-climatique">Réflexions personnelles sur l’urgence climatique</a></li>
+        </ul>
+        <h3 id="racontez-moi-la-suite">Aidez-moi à imaginer la suite</h3>
+        <p>Pour m’aider à comprendre tout ça, pour me dire que j’ai tort, pour identifier de nouvelles idées, pour proposer des moyens de continuer le combat, vous pouvez ouvrir une discussion (ou une <i lang="en">issue</i>) sur <a href="https://github.com/joachimesque/urgence-climatique">GitHub:<wbr>joachimesque/<wbr>urgence-climatique</a> (nécessite un compte GitHub).
             <br>
             Ou alors vous pouvez me contacter par email&nbsp;: <a href="mailto:info@professeurjoachim.com">info@professeurjoachim.com</a>.</p>
     </section>
