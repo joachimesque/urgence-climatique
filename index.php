@@ -270,7 +270,13 @@
         </ul>
         <h2 id="letat-durgence-climatique-dans-le-monde">L’état d’urgence climatique dans le monde</h2>
         <h3 id="declarations">Déclarations</h3>
-        <p>Pour des raisons de brièveté, certaines déclarations pourront être omises</p>
+        <p>Pour des raisons de brièveté, certaines déclarations pourront être omises. Pour une liste plus exhaustive, divers sites regroupent les déclarations de pays, parlements et conseils municipaux&nbsp;:</p>
+        <ul>
+            <li><a href="https://climateemergencydeclaration.org/climate-emergency-declarations-cover-15-million-citizens/" lang="en" hreflang="en">Climate emergency declarations in 558 councils cover 65 million citizens</a></li>
+            <li><a href="https://www.cedamia.org/global/" lang="en" hreflang="en">CEDAMIA: Climate Emergency Declarations</a></li>
+            <li><a href="https://climateemergency.uk/blog/category/climate-emergency/" lang="en" hreflang="en">Climate Emergency: Local Councils</a></li>
+            <li><a href="https://www.theclimatemobilization.org/climate-emergency-campaign" lang="en" hreflang="en">The Climate Mobilization: Climate Emergency Campaign</a></li>
+        </ul>
         <h4 id="declaration-26-novembre-2018-bristol-royaume-uni">26 novembre 2018 — Bristol, Royaume-Uni</h4>
         <p>Premier conseil municipal, et première administration au monde à déclarer l’urgence climatique.<br />
             <a href="https://www.bbc.co.uk/news/uk-england-bristol-46343383" lang="en" hreflang="en">Bristol’s 2030 carbon-neutral plan ’ambitious’ - BBC News</a></p>
