@@ -90,7 +90,7 @@
                         <li>Support the rapidly emerging climate action plans and resilience initiatives throughout the country.</li>
                         <li>Reduce carbon emissions to net zero no later than 2030.</li>
                     </ol>
-                    <p>Pétition <a href="https://www.change.org/p/uk-government-declare-a-national-climate-emergency-now"><em>Declare a national climate emergency now!</em></a></p>
+                    <p>Pétition <a href="https://www.change.org/p/uk-government-declare-a-national-climate-emergency-now" hreflang="en"><em>Declare a national climate emergency now!</em></a></p>
                 </blockquote>
                 <p>Traduction&nbsp;:</p>
                 <ol>
@@ -131,7 +131,7 @@
                         <li>AR3: The agriculture sector in Ireland requires ongoing support to make a transition towards models of production which emit lower Green House Gases. Cognisance must be taken of the impact which the sector has on the economy, particularly the rural economy.</li>
                         <li>AR4: All new buildings should have a zero or low carbon footprint and planning permission should only be provided for new builds which comply with these requirements. The government should provide incentives to retrofit homes to achieve better energy efficiency ratings.</li>
                     </ol>
-                    <p><a href="https://www.citizensassembly.ie/en/News/Publication-of-Citizens-Assembly-Final-Report-on-How-the-State-can-make-Ireland-a-Leader-in-Tackling-Climate-Change.html"><em>Publication of Citizens’ Assembly Final Report on How the State can make Ireland a Leader in Tackling Climate Change</em></a></p>
+                    <p><a href="https://www.citizensassembly.ie/en/News/Publication-of-Citizens-Assembly-Final-Report-on-How-the-State-can-make-Ireland-a-Leader-in-Tackling-Climate-Change.html" lang="en" hreflang="en"><em>Publication of Citizens’ Assembly Final Report on How the State can make Ireland a Leader in Tackling Climate Change</em></a></p>
                 </blockquote>
                 <p>Traduction&nbsp;:</p>
                 <p>L’assemblée a formulé les 13 recommandations suivantes à la majorité des voix&nbsp;:</p>
@@ -273,28 +273,28 @@
         <p>Pour des raisons de brièveté, certaines déclarations pourront être omises</p>
         <h4 id="declaration-26-novembre-2018-bristol-royaume-uni">26 novembre 2018 — Bristol, Royaume-Uni</h4>
         <p>Premier conseil municipal, et première administration au monde à déclarer l’urgence climatique.<br />
-            <a href="https://www.bbc.co.uk/news/uk-england-bristol-46343383">Bristol’s 2030 carbon-neutral plan ’ambitious’ - BBC News</a></p>
+            <a href="https://www.bbc.co.uk/news/uk-england-bristol-46343383" lang="en" hreflang="en">Bristol’s 2030 carbon-neutral plan ’ambitious’ - BBC News</a></p>
         <h4 id="declaration-19-mars-2019-canton-de-vaud-suisse">19 mars 2019 — Canton de Vaud, Suisse</h4>
         <p><a href="https://www.rtn.ch/rtn/Actualite/Suisse/Le-Parlement-donne-son-feu-vert-a-l-urgence-climatique.html">Le Parlement donne son feu vert à l’urgence climatique - RTN votre radio régionale</a></p>
         <h4 id="declaration-27-mars-2019-nbsp-canton-de-jura-suisse">27 mars 2019 —&nbsp;Canton de Jura, Suisse</h4>
         <p><a href="https://www.rfj.ch/rfj/Actualite/Region/20190328-Le-Parlement-jurassien-declare-l-etat-d-urgence-climatique.html">Le Parlement jurassien déclare l’état d’urgence climatique - RFJ votre radio régionale</a></p>
         <h4 id="declaration-28-avril-2019-ecosse">28 avril 2019 — Écosse</h4>
-        <p><a href="https://www.bbc.com/news/uk-scotland-scotland-politics-48077802">Nicola Sturgeon declares ‘climate emergency’ at SNP conference - BBC News</a></p>
+        <p><a href="https://www.bbc.com/news/uk-scotland-scotland-politics-48077802" lang="en" hreflang="en">Nicola Sturgeon declares ‘climate emergency’ at SNP conference - BBC News</a></p>
         <h4 id="declaration-1er-mai-2019-pays-de-galles">1er mai 2019 — Pays de Galles</h4>
         <p>
-            Le gouvernement&nbsp;: <a href="https://www.bbc.com/news/uk-wales-politics-48093720">‘Climate emergency’ declared by Welsh Government - BBC News</a><br />
-            L’assemblée&nbsp;: <a href="https://www.bbc.co.uk/news/uk-wales-politics-48122055">‘Climate emergency’ vote backed by Welsh Assembly - BBC News</a>
+            Le gouvernement&nbsp;: <a href="https://www.bbc.com/news/uk-wales-politics-48093720" lang="en" hreflang="en">‘Climate emergency’ declared by Welsh Government - BBC News</a><br />
+            L’assemblée&nbsp;: <a href="https://www.bbc.co.uk/news/uk-wales-politics-48122055" lang="en" hreflang="en">‘Climate emergency’ vote backed by Welsh Assembly - BBC News</a>
         </p>
         <h4 id="declaration-1er-mai-2019-royaume-uni">1er mai 2019 — Royaume-Uni</h4>
-        <p><a href="https://www.bbc.com/news/uk-politics-48126677">UK Parliament declares climate change emergency - BBC News</a></p>
+        <p><a href="https://www.bbc.com/news/uk-politics-48126677" lang="en" hreflang="en">UK Parliament declares climate change emergency - BBC News</a></p>
         <h4 id="declaration-9-mai-2019-mulhouse-france">9 mai 2019 — Mulhouse, France</h4>
         <p><a href="https://www.mulhouse.fr/wp-content/uploads/2019/05/Ordre-du-jour-CM-09-05-19.pdf">Mulhouse.fr&nbsp;: Ordre du jour du Conseil municipal du jeudi 9 mai 2019</a></p>
         <h4 id="declaration-9-mai-2019-irlande">9 mai 2019 — Irlande</h4>
-        <p><a href="https://www.bbc.co.uk/news/world-europe-48221080">Climate change: Ireland declares climate emergency - BBC News</a></p>
+        <p><a href="https://www.bbc.co.uk/news/world-europe-48221080" lang="en" hreflang="en">Climate change: Ireland declares climate emergency - BBC News</a></p>
         <h4 id="declaration-13-mai-2019-canton-de-zurich-suisse">13 mai 2019 — Canton de Zurich, Suisse</h4>
         <p><a href="https://www.24heures.ch/suisse/Zurich-le-parlement-pour-l-etat-durgence-climatique/story/13514202">Suisse: Zurich: le parlement pour l’état d’urgence climatique - Suisse - 24heures.ch</a></p>
         <h4 id="declaration-19-mai-2019-premiere-nation-vuntut-gwichin">19 mai 2019 — Première Nation Vuntut Gwichin</h4>
-        <p>C’est la première fois qu’une nation tribale ou qu’un peuple autochtone déclare l’état d’urgence climatique&nbsp;: <a href="https://earther.gizmodo.com/the-first-tribal-climate-emergency-declaration-is-here-1835004654">The First Tribal Climate Emergency Declaration Is Here—and It Won't Be the Last</a></p>
+        <p>C’est la première fois qu’une nation tribale ou qu’un peuple autochtone déclare l’état d’urgence climatique&nbsp;: <a href="https://earther.gizmodo.com/the-first-tribal-climate-emergency-declaration-is-here-1835004654" lang="en" hreflang="en">The First Tribal Climate Emergency Declaration Is Here—and It Won't Be the Last</a></p>
     </section>
     <section>
         <h2 id="et-nous-on-attend-quoi">Et nous, on attend quoi&nbsp;?</h2>
