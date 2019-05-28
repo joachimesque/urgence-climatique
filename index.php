@@ -293,6 +293,8 @@
         <p><a href="https://www.bbc.co.uk/news/world-europe-48221080">Climate change: Ireland declares climate emergency - BBC News</a></p>
         <h4 id="declaration-13-mai-2019-canton-de-zurich-suisse">13 mai 2019 — Canton de Zurich, Suisse</h4>
         <p><a href="https://www.24heures.ch/suisse/Zurich-le-parlement-pour-l-etat-durgence-climatique/story/13514202">Suisse: Zurich: le parlement pour l’état d’urgence climatique - Suisse - 24heures.ch</a></p>
+        <h4 id="declaration-13-mai-2019-canton-de-zurich-suisse">19 mai 2019 — Première Nation Vuntut Gwichin</h4>
+        <p>C’est la première fois qu’une nation tribale ou qu’un peuple autochtone déclare l’état d’urgence climatique&nbsp;: <a href="https://earther.gizmodo.com/the-first-tribal-climate-emergency-declaration-is-here-1835004654">The First Tribal Climate Emergency Declaration Is Here—and It Won't Be the Last</a></p>
     </section>
     <section>
         <h2 id="et-nous-on-attend-quoi">Et nous, on attend quoi&nbsp;?</h2>
