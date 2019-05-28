@@ -242,10 +242,14 @@ ol li {
 }
 
 ul li {
-  margin-left: .666em;
-  padding-left: .666em;
-  list-style-type: "–";
-  list-style-position: outside;
+  margin-left: 1em;
+  list-style: none;
+  position: relative;
+}
+ul li::before {
+  position: absolute;
+  content: "–";
+  left: -1em;
 }
 
 li + li {
