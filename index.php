@@ -301,6 +301,11 @@
         <p><a href="https://www.24heures.ch/suisse/Zurich-le-parlement-pour-l-etat-durgence-climatique/story/13514202">Suisse: Zurich: le parlement pour l’état d’urgence climatique - Suisse - 24heures.ch</a></p>
         <h4 id="declaration-19-mai-2019-premiere-nation-vuntut-gwichin">19 mai 2019 — Première Nation Vuntut Gwichin</h4>
         <p>C’est la première fois qu’une nation tribale ou qu’un peuple autochtone déclare l’état d’urgence climatique&nbsp;: <a href="https://earther.gizmodo.com/the-first-tribal-climate-emergency-declaration-is-here-1835004654" lang="en" hreflang="en">The First Tribal Climate Emergency Declaration Is Here—and It Won't Be the Last</a></p>
+        <h4 id="15-juin-2019-vatican">15 juin 2019 — Vatican</h4>
+        <p>Le pape, chef spirituel des catholiques et chef temporel de l’État du Vatican déclare l’Urgence Climatique, non seulement au niveau de son état, mais au niveau de l’Église catholique romaine, religion qui regroupe le plus de membres à l’échelle mondiale&nbsp;: <a href="https://www.theguardian.com/environment/2019/jun/14/pope-francis-declares-climate-emergency-and-urges-action" lang="en" hreflang="en">Pope Francis declares ‘climate emergency’ and urges action</a></p>
+        <blockquote>
+            <p>Addressing energy leaders, pope warns of ‘catastrophic’ effects of global heating</p>
+        </blockquote>
     </section>
     <section>
         <h2 id="et-nous-on-attend-quoi">Et nous, on attend quoi&nbsp;?</h2>
