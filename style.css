@@ -189,11 +189,15 @@ a:hover, :target a.internal-link {
   box-shadow: inset 0 -1.3em var(--couleur-accent);
 }
 
-blockquote, q, cite {
+blockquote {
   font-style: italic;
   border-left: #777 3px solid;
   margin-left: .2em;
   padding-left: 1em;
+}
+
+q {
+  font-style: italic;
 }
 
 ul, ol {
