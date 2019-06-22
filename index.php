@@ -300,9 +300,16 @@
             <li><a href="https://climateemergency.uk/blog/category/climate-emergency/" lang="en" hreflang="en">Climate Emergency: Local Councils</a></li>
             <li><a href="https://www.theclimatemobilization.org/climate-emergency-campaign" lang="en" hreflang="en">The Climate Mobilization: Climate Emergency Campaign</a></li>
         </ul>
-        <h4 id="declaration-26-novembre-2018-bristol-royaume-uni">26 novembre 2018 — Bristol, Royaume-Uni</h4>
+        <h4 id="declaration-5-decembre-2016-21-aout-2017-darebin-australie">5 décembre 2016, 21 août 2017 — Darebin, Australie</h4>
         <p>Premier conseil municipal, et première administration au monde à déclarer l’urgence climatique.<br />
-            <a href="https://www.bbc.co.uk/news/uk-england-bristol-46343383" lang="en" hreflang="en">Bristol’s 2030 carbon-neutral plan ’ambitious’ - BBC News</a></p>
+            <a href="http://www.caceonline.org/the-darebin-campaign.html" lang="en" hreflang="en">The Darebin campaign</a><br/>
+            <q lang="en">"Council recognises that we are in a state of climate emergency that requires urgent action by all levels of government, including by local councils."</q><br/>
+            <a href="https://www.yoursaydarebin.com.au/climateaction" lang="en" hreflang="en">Darebin climate emergency plan</a><br/>
+            <a href="http://www.darebin.vic.gov.au/Darebin-Living/Caring-for-the-environment/EnergyClimate" lang="en" hreflang="en">Darebin – Energy and Climate</a><br/>
+            <q lang="en">“We recognise that we are in a state of climate emergency, and we need to restore a safe climate at emergency speed, in order to avoid dramatic and negative impacts on our community and around the world.”</q>
+        </p>
+        <h4 id="declaration-26-novembre-2018-bristol-royaume-uni">26 novembre 2018 — Bristol, Royaume-Uni</h4>
+        <p><a href="https://www.bbc.co.uk/news/uk-england-bristol-46343383" lang="en" hreflang="en">Bristol’s 2030 carbon-neutral plan ’ambitious’ - BBC News</a></p>
         <h4 id="declaration-19-mars-2019-canton-de-vaud-suisse">19 mars 2019 — Canton de Vaud, Suisse</h4>
         <p><a href="https://www.rtn.ch/rtn/Actualite/Suisse/Le-Parlement-donne-son-feu-vert-a-l-urgence-climatique.html">Le Parlement donne son feu vert à l’urgence climatique - RTN votre radio régionale</a></p>
         <h4 id="declaration-27-mars-2019-nbsp-canton-de-jura-suisse">27 mars 2019 —&nbsp;Canton de Jura, Suisse</h4>
