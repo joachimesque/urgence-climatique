@@ -240,22 +240,22 @@
     </section>
     <section>
         <h2 id="en-france-on-en-est-ou">En France, on en est où&nbsp;?</h2>
-        <p class="intro">Il y a quelques jours, pour suivre l’exemple des parlements anglais et irlandais, la France Insoumise a réclamé l’état d’urgence climatique et écologique. Dans le contexte des élections européennes, plusieurs partis intègrent l’environnement au cœur de leur programme, mais tous ne sont pas convaincants.</p>
+        <p class="intro">À la mi-mai, pour suivre l’exemple des parlements anglais et irlandais, la France Insoumise a réclamé l’état d’urgence climatique et écologique. Dans le contexte des élections européennes, plusieurs partis intégraient l’environnement au cœur de leur programme, mais tous n’ont pas convaincu. La relative percée du parti <abbr title="Europe Écologie Les Verts">EÉLV</abbr> a tout de même révélé l’intérêt des Français pour les problématiques environnementales.</p>
         <h3 id="lfi-proposition">Proposition de loi d’état d’urgence climatique</h3>
         <details>
             <summary><span>Le 14 mai 2019, la députée Mathilde Panot a proposé la proposition de résolution déclarant l’état d’urgence climatique et écologique</span></summary>
             <blockquote cite="http://www.assemblee-nationale.fr/15/propositions/pion1943.asp">
                 <p>Considérant que le changement climatique fait peser de sérieuses menaces sur l’humanité et son environnement, comme l’attestent les différents rapports du Groupe d’experts intergouvernemental sur l’évolution du climat&nbsp;;</p>
                 <p>[…]</p>
-                <p>Cette Assemblée déclare l’urgence climatique à la suite des conclusions du Groupe d’experts intergouvernemental sur l’évolution du climat selon laquelle, pour éviter une augmentation de plus de 1,5&nbsp;°C du réchauffement climatique, les émissions mondiales devraient être réduites d’environ 45 % par rapport aux niveaux de 2010 d’ici 2030, pour atteindre le zéro émissions net vers 2050&nbsp;;</p>
+                <p>Cette Assemblée déclare l’urgence climatique à la suite des conclusions du Groupe d’experts intergouvernemental sur l’évolution du climat selon laquelle, pour éviter une augmentation de plus de 1,5&nbsp;°C du réchauffement climatique, les émissions mondiales devraient être réduites d’environ 45&nbsp;% par rapport aux niveaux de 2010 d’ici 2030, pour atteindre le zéro émissions net vers 2050&nbsp;;</p>
                 <p>Cette Assemblée déclare l’urgence écologique à la suite des conclusions de la Plateforme intergouvernementale scientifique et politique sur la biodiversité et les services écosystémiques selon laquelle pour limiter la sixième extinction de masse en cours il faut entamer des “réformes fondamentales des systèmes financier et économique mondiaux”&nbsp;;</p>
                 <p>Cette Assemblée s’inquiète du fait que la France manque actuellement la quasi-totalité de ses objectifs en matière de biodiversité et de lutte contre le réchauffement climatique&nbsp;;</p>
                 <p>Elle plaide pour la mise en œuvre d’un principe de règle verte au sommet de la hiérarchie des normes, qui impose de ne pas prélever sur la nature plus de ressources renouvelables que ce qu’elle peut reconstituer en un an, ni produire plus de déchets que ce qu’elle peut supporter&nbsp;;</p>
-                <p>Elle invite en outre le Gouvernement à soumettre à l’Assemblée nationale des mesures urgentes visant à accroître l’ambition des objectifs de la France, conformément à ses engagements nationaux et internationaux, afin d’atteindre avant 2050 l’objectif de neutralité carbone et de 100 % d’énergies renouvelables, couplés à une réduction drastique des émissions de gaz à effet de serre nationales, ainsi que relatives à la mise en œuvre d’une stratégie industrielle pourvoyeuse d’emplois non délocalisables au cœur d’une transition écologique vers une économie à faible intensité carbone.</p>
+                <p>Elle invite en outre le Gouvernement à soumettre à l’Assemblée nationale des mesures urgentes visant à accroître l’ambition des objectifs de la France, conformément à ses engagements nationaux et internationaux, afin d’atteindre avant 2050 l’objectif de neutralité carbone et de 100&nbsp;% d’énergies renouvelables, couplés à une réduction drastique des émissions de gaz à effet de serre nationales, ainsi que relatives à la mise en œuvre d’une stratégie industrielle pourvoyeuse d’emplois non délocalisables au cœur d’une transition écologique vers une économie à faible intensité carbone.</p>
             </blockquote>
             <p>Source&nbsp;: <a href="http://www.assemblee-nationale.fr/15/propositions/pion1943.asp">assemblee-nationale.fr/15/propositions/pion1943.asp</a></p>
         </details>
-        <p>Cette proposition affiche clairement des ambitions conformes aux recommandations du <abbr title="Groupe d’experts intergouvernemental sur l’évolution du climat">GIEC</abbr> et demande au gouvernement non seulement un principe de règle verte qui aurait la même force que la Constitution, mais aussi des mesures pour accroître l’ambition des objectifs de la France pour atteindre avant 2050 l’objectif de neutralité carbone et de 100 % d’énergies renouvelables ainsi qu’une réduction drastique des émissions de gaz à effet de serre.</p>
+        <p>Cette proposition affiche clairement des ambitions conformes aux recommandations du <abbr title="Groupe d’experts intergouvernemental sur l’évolution du climat">GIEC</abbr> et demande au gouvernement non seulement un principe de règle verte qui aurait la même force que la Constitution, mais aussi des mesures pour accroître l’ambition des objectifs de la France pour atteindre avant 2050 l’objectif de neutralité carbone et de 100&nbsp;% d’énergies renouvelables ainsi qu’une réduction drastique des émissions de gaz à effet de serre.</p>
         <ul>
             <li><a href="https://www.change.org/p/pour-que-la-france-d%C3%A9clare-l-%C3%A9tat-d-urgence-%C3%A9cologique-et-climatique">Pétition&nbsp;: Pour que la France déclare l’état d’urgence écologique et climatique</a></li>
             <li><a href="https://lafranceinsoumise.fr/2019/05/14/declarons-letat-durgence-ecologique-et-climatique/">La France Insoumise&nbsp;: Déclarons l’état d’urgence écologique et climatique</a></li>
@@ -268,6 +268,29 @@
             <li><a href="https://www.wedemain.fr/Urgence-climatique-que-proposent-les-candidats-aux-europeennes_a4063.html"><strong>Wedemain</strong> – Urgence climatique&nbsp;: que proposent les candidats aux européennes ?</a></li>
             <li><a href="https://www.lemonde.fr/planete/article/2019/05/18/face-a-l-urgence-climatique-les-partis-rivalisent-de-propositions-vertes-aux-europeennes_5463862_3244.html"><strong>Le Monde</strong> – Face à l’urgence climatique, les partis rivalisent de propositions “vertes” aux européennes</a></li>
         </ul>
+        <h3 id="lurgence-climatique-enfin-declaree-en-france">L’Urgence Climatique dans la loi Énergie et Climat</h3>
+        <p>Après avoir refusé de considérer la proposition d’amendement de la députée Mathilde Panot le 14 mai, en disant <q>“Même si on votait une résolution déclarant l'état d'urgence climatique, on n'aurait pas beaucoup avancé dans la lutte contre le réchauffement climatique.”</q> (source: <a href="https://twitter.com/LCP/status/1128301087524413440">@LCP sur Twitter</a>), François de Rugy se félicite un mois après d’inscrire une déclaration d’Urgence Climatique dans la proposition de Loi Énergie et Climat.</p>
+        <p>Cette proposition de loi vise à définir de nouveaux objectifs sur le climat, plus compatibles avec la neutralité carbone en 2050. François de Rugy se félicite de l’ambition du texte, mais il est décrié à gauche comme chez les élus écolo, comme étant trop incomplet, ne portant que sur deux mises à jour d’objectifs, quatre fermetures de centrales à charbon, mais rien sur le bâtiment ou les transorts.</p>
+
+        <details>
+            <summary><span>La déclaration d'Urgence Climatique est proposée via l’amendement CE566 porté par la députée <abbr title="La République En Marche">LaREM</abbr> Nathalie Sarles, adopté le 14 juin 2019.</span></summary>
+            <blockquote cite="http://www.assemblee-nationale.fr/dyn/15/amendements/1908/CION-ECO/CE566">
+                <p>ARTICLE PREMIER</p>
+                <p>Après l’alinéa 1, insérer l’alinéa suivant :</p>
+                <p>« 1° A Le début du premier alinéa est ainsi rédigé : « I. – Pour répondre à l’urgence écologique et à la crise climatique, la politique... (le reste sans changement) ; ».</p>
+                <p>Retravaillé après le retrait de l’amendement CD24 en commission du développement durable et de l’aménagement du territoire, cet amendement vise à introduire l’urgence écologique et la crise climatique dans la loi.</p>
+                <p>Selon le rapport du GIEC présenté en 2018, l’évaluation des émissions telles qu’elles sont rapportées dans les contributions nationales dans leur volet atténuation nous amène à un scénario qui n’est pas cohérent avec l’objectif de 1,5°C de réchauffement des températures. En effet, même avec des changements drastiques d’ici 2030 il sera difficile de respecter l’objectif fixé à 1,5°C. Au-delà de cet objectif, le GIEC souligne que les conséquences seront irréversibles pour notre planète. Pour éviter ce scénario, la politique menée en matière de transition écologique doit être rapide et globale. Le rapport spécial du GIEC sur le 1.5°C préconise une diminution des émissions de 45&nbsp;% avant 2030 (en 11 ans) au niveau mondial, soit une division par 3 pour les pays industrialisés comme la France.</p>
+                <p>Alors que le Parlement britannique a voté une résolution pour déclarer l’urgence écologique, cet amendement propose de l’inclure dans la loi.</p>
+            </blockquote>
+            <p>Source&nbsp;: <a href="http://www.assemblee-nationale.fr/dyn/15/amendements/1908/CION-ECO/CE566">assemblee-nationale.fr/dyn/15/amendements/1908/CION-ECO/CE566</a></p>
+        </details>
+        <p>Outre la faiblesse des propositions portées par cette loi Énergie et Climat, déplorée par l’opposition au gouvernement, la déclaration d’urgence climatique parait bien faible, si on la compare à la proposition de loi portée par Mathilde Panot et la France Insoumise. On n’y retrouve pas de remise en question de la hiérarchie des normes, pas de déclaration concrète de ce que cette urgence veut dire, etc. Le terme est laissé nébuleux, à l’appréciation du lecteur.</p>
+        <p>Le volte-face de François de Rugy sur le sujet d’urgence climatique, en un mois, est une arnaque.</p>
+        <ul>
+            <li><a href="http://www.lcp.fr/actualites/lurgence-ecologique-et-climatique-inscrite-dans-la-loi-energie-et-climat"><strong>La Chaine Parlementaire</strong> – "L’urgence écologique et climatique" inscrite dans la loi Energie et Climat</a></li>
+        </ul>
+    </section>
+    <section>
         <h2 id="letat-durgence-climatique-dans-le-monde">L’état d’urgence climatique dans le monde</h2>
         <h3 id="declarations">Déclarations</h3>
         <p>Pour des raisons de brièveté, certaines déclarations pourront être omises. Pour une liste plus exhaustive, divers sites regroupent les déclarations de pays, parlements et conseils municipaux&nbsp;:</p>
