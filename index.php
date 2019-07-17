@@ -241,6 +241,7 @@
     <section>
         <h2 id="en-france-on-en-est-ou">En France, on en est où&nbsp;?</h2>
         <p class="intro">À la mi-mai, pour suivre l’exemple des parlements anglais et irlandais, la France Insoumise a réclamé l’état d’urgence climatique et écologique. Dans le contexte des élections européennes, plusieurs partis intégraient l’environnement au cœur de leur programme, mais tous n’ont pas convaincu. La relative percée du parti <abbr title="Europe Écologie Les Verts">EÉLV</abbr> a tout de même révélé l’intérêt des Français pour les problématiques environnementales.</p>
+        <p class="intro">Début juillet, la ville de Paris déclare l’état d’urgence climatique.</p>
         <h3 id="lfi-proposition">Proposition de loi d’état d’urgence climatique</h3>
         <details>
             <summary><span>Le 14 mai 2019, la députée Mathilde Panot a proposé la proposition de résolution déclarant l’état d’urgence climatique et écologique</span></summary>
@@ -289,6 +290,17 @@
         <ul>
             <li><a href="http://www.lcp.fr/actualites/lurgence-ecologique-et-climatique-inscrite-dans-la-loi-energie-et-climat"><strong>La Chaine Parlementaire</strong> – "L’urgence écologique et climatique" inscrite dans la loi Energie et Climat</a></li>
         </ul>
+
+        <h3 id="paris-declare-letat-durgence-climatique">Paris déclare l’état d’urgence climatique</h3>
+        <p>Le 9 juillet 2019, après un vote au conseil de Paris, la ville déclare l’état d’urgence climatique. La mesure est surtout symbolique, à laquelle s’ajoutent trois vœux&nbsp;:</p>
+        <ul>
+            <li>la création d’une “Académie du climat”, un lieu dédié à la lutte contre la crise climatique à destination des jeunes et des <em>Volontaires du Climat</em> ;</li>
+            <li>la création d’un “Comité d’action Climat, Biodiversité et Pollution”, une sorte de <abbr title="Groupe d’Experts Intergouvernemental sur l’Evolution du Climat">GIEC</abbr> pour conseiller et accompagner la ville dans ses projets ;</li>
+            <li>la création d’un “Prix International de l’Écologie”.</li>
+        </ul>
+        <p>En plus de ça, la ville de Paris montre son désaccord avec le Ministère de l’Intérieur en saluant les actions pacifistes et non-violentes en faveur de la cause climatique, en réaction à la <a href="https://www.francetvinfo.fr/sante/environnement-et-sante/video-paris-des-militants-ecologistes-violemment-deloges-a-l-aide-de-gaz-lacrymogenes_3513735.html">répression violente de la manifestation Extinction Rebellion sur le Pont de Sully le 28 juin 2019</a>.</p>
+        <ul><li><a href="https://www.huffingtonpost.fr/entry/paris-se-declare-en-etat-durgence-climatique_fr_5d2481e5e4b0cfb595fbfcf6"><strong>Huffpost&nbsp;:</strong> Paris se déclare en "état d'urgence climatique"</a></li></ul>
+
     </section>
     <section>
         <h2 id="letat-durgence-climatique-dans-le-monde">L’état d’urgence climatique dans le monde</h2>
