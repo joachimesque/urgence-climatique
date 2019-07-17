@@ -350,6 +350,23 @@
         </blockquote>
         <h4 id="17-juin-2019-canada-foutage-de-gueule">18 juin 2019 — <del>Canada</del></h4>
         <p>Le Canada de Justin Trudeau prouve qu’on peut être de mauvaise foi, totalement cynique, ou n’avoir absolument pas compris la situation dans laquelle on est. Le 17 juin, le Parlement déclare l’Urgence Climatique via une déclaration portée par leur Ministre de l’environnement et du changement climatique Catherine McKenna, et qui qualifie la crise de “réelle et urgente, et provoquée par l’activité humaine”. Le lendemain, le premier ministre Justin Trudeau annonce l’extension du Trans Mountain pipeline, qui doit convoyer du pétrole issu de sables bitumés de la province de l’Alberta. Parmi les justifications&nbsp;: <q lang="en">“If our country has money from our resources, we’ve got better options for investing in green energy.”</q> (<q lang="fr">“Il faut que notre pays fasse de l’argent à partir de nos ressources pour avoir de meilleures options d’investissement dans les énergies renouvelables”.</q>) Le niveau de foutage de gueule est immense, la barre du renoncement et de l’excuse bidon est placée très haut. <a href="https://www.vice.com/en_ca/article/wjvkqq/canada-justin-trudeau-declares-climate-emergency-then-approves-trans-mountain-pipeline-expansion" lang="en" hreflang="en">Canada Declares Climate Emergency, Then Approves Massive Oil Pipeline Expansion</a></p>
+        <h4 id="26-juin-2019-new-york-city">26 juin 2019 — New York City, États-Unis d’Amérique</h4>
+        <blockquote>
+            <p>Whereas, Marginalized populations in New York City and worldwide, including people of color, immigrants, indigenous communities, low-income individuals, people with disabilities, and the unhoused are already disproportionately affected by climate change, and will continue to bear an excess burden as temperatures increase, oceans rise, and disasters worsen; and</p>
+            <p>Whereas, Addressing climate change fairly requires transitioning from fossil fuels to clean, renewable energy that is ecologically sustainable and equitable for all people, especially those most impacted by climate change already and those who will be most impacted in the future; and</p>
+            <p>Whereas, People around the world have a fundamental human right to clean, healthy and adequate air, water, land, food, education, healthcare, and shelter; and </p>
+            <p>…</p>
+            <p>Resolved, The City Council declares a climate emergency and calls for an immediate emergency mobilization to restore a safe climate.”</p>
+        </blockquote>
+        <ul>
+            <li>
+                <a href="https://edition.cnn.com/2019/06/27/us/new-york-city-declared-climate-emergency-trnd/index.html" lang="en" hreflang=en>New York City declares a climate emergency, the first US city with more than a million residents to do so</a>
+            </li>
+            <li>
+                <a href="https://www.nytimes.com/2019/07/05/nyregion/climate-emergency-nyc.html" lang="en" hreflang="en">A ‘Climate Emergency’ Was Declared in New York City. Will That Change Anything?</a>
+                <q lang="en">The city is now the largest on earth to pass such a measure.</q>
+            </li>
+        </ul>
     </section>
     <section>
         <h2 id="et-nous-on-attend-quoi">Et nous, on attend quoi&nbsp;?</h2>
