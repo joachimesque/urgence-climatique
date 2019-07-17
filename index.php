@@ -367,6 +367,22 @@
                 <q lang="en">The city is now the largest on earth to pass such a measure.</q>
             </li>
         </ul>
+        <h4 id="9-juillet-2019-proposition-de-declaration-durgence-climatique-nationale-du-congres-des-etats-unis-damerique">9 juillet 2019 — Proposition de déclaration d’urgence climatique nationale du Congrès des États-Unis d’Amérique</h4>
+        <p>Le sénateur Bernie Sanders (qui est candidat à la primaire du Parti Démocrate pour l’élection présidentielle américaine de 2020) et les représentants Alexandria Ocasio-Cortez (étoile montante de la frange gauche du Parti Démocrate, et initiatrice du Green New Deal) et Earl Blumenauer, proposent une résolution de déclaration d’état d’urgence climatique. Cette déclaration n’aurait pas force de loi, et est exclusivement symbolique. En revanche, elle pourrait ouvrir la voie à des nouvelles lois en faveur du climat et de l’environnement, comme le Green New Deal.</p>
+        <blockquote lang="en" cite="https://www.vox.com/2019/7/9/20687526/bernie-sanders-aoc-national-climate-change-emergency">
+            <p>The resolution declares global warming “a climate emergency that severely and urgently impacts the economic and social well-being, health and safety, and national security of the United States,” and calls for “a national, social, industrial, and economic mobilization of the resources and labor of the United States at a massive-scale to halt, reverse, mitigate, and prepare for the consequences of the climate emergency and to restore the climate for future generations.”</p>
+        </blockquote>
+        <blockquote lang="en" cite="https://grist.org/article/bernie-sanders-and-aoc-want-to-declare-a-climate-emergency-does-that-mean-anything/">
+            <p>If passed, the largely symbolic resolution would demand “a national, social, industrial, and economic mobilization of the resources and labor of the United States at a massive-scale,” which is not the same thing as prescribing specific responses. And yet advocates say even proposing such a resolution is an important step towards mobilizing on climate.</p>
+        </blockquote>
+        <ul>
+            <li>
+                <a href="https://www.vox.com/2019/7/9/20687526/bernie-sanders-aoc-national-climate-change-emergency" lang="en" hreflang=en>Vox.com — Bernie Sanders and AOC want Congress to declare a national emergency over climate change</a>
+            </li>
+            <li>
+                <a href="https://grist.org/article/bernie-sanders-and-aoc-want-to-declare-a-climate-emergency-does-that-mean-anything/" lang="en" hreflang="en">Grist – Bernie Sanders and AOC want to declare a climate emergency. Does that mean anything?</a>
+            </li>
+        </ul>
     </section>
     <section>
         <h2 id="et-nous-on-attend-quoi">Et nous, on attend quoi&nbsp;?</h2>
