@@ -326,6 +326,12 @@
         <p><a href="https://www.rtn.ch/rtn/Actualite/Suisse/Le-Parlement-donne-son-feu-vert-a-l-urgence-climatique.html">Le Parlement donne son feu vert à l’urgence climatique - RTN votre radio régionale</a></p>
         <h4 id="declaration-27-mars-2019-nbsp-canton-de-jura-suisse">27 mars 2019 —&nbsp;Canton de Jura, Suisse</h4>
         <p><a href="https://www.rfj.ch/rfj/Actualite/Region/20190328-Le-Parlement-jurassien-declare-l-etat-d-urgence-climatique.html">Le Parlement jurassien déclare l’état d’urgence climatique - RFJ votre radio régionale</a></p>
+        <h4 id="3-avril-2019-le-mouvement-culture-declares-emergency-rassemble-200-organisations-artistiques">3 avril 2019 — Le mouvement <span lang="en">Culture Declares Emergency</span> rassemble 200 organisations artistiques</h4>
+        <p>Plus de 200 institutions, théâtres, centres artistiques, ont rejoint le mouvement <span lang="en">Culture Declares Emergency</span>, qui soutient <span lang="en">Extinction Rebellion</span>, pour s’engager dans la lutte contre la crise climatique.</p>
+        <ul>
+            <li><a href="https://www.thestage.co.uk/news/2019/more-than-200-new-arts-organisations-join-extinction-rebellions-culture-declares-emergency-movement/" lang="en" hreflang="en">The Stage – More than 200 arts organisations join Culture Declares Emergency movement</a></li>
+            <li><a href="https://sites.google.com/view/culturedeclaresemergency/home" hreflang="en" lang="en">Culture Declares Emergency</a></li>
+        </ul>
         <h4 id="declaration-28-avril-2019-ecosse">28 avril 2019 — Écosse</h4>
         <p><a href="https://www.bbc.com/news/uk-scotland-scotland-politics-48077802" lang="en" hreflang="en">Nicola Sturgeon declares ‘climate emergency’ at SNP conference - BBC News</a></p>
         <h4 id="declaration-1er-mai-2019-pays-de-galles">1er mai 2019 — Pays de Galles</h4>
@@ -382,6 +388,13 @@
             <li>
                 <a href="https://grist.org/article/bernie-sanders-and-aoc-want-to-declare-a-climate-emergency-does-that-mean-anything/" lang="en" hreflang="en">Grist – Bernie Sanders and AOC want to declare a climate emergency. Does that mean anything?</a>
             </li>
+        </ul>
+        <h4 id="12-juillet-2019-le-mouvement-music-declares-emergency-rassemble-lindustrie-musicale-du-royaume-uni">12 juillet 2019 — Le mouvement <span lang="en">Music Declares Emergency</span> rassemble l’industrie musicale du Royaume-Uni</h4>
+        <p>À la suite de <a href="#3-avril-2019-le-mouvement-culture-declares-emergency-rassemble-200-organisations-artistiques">Culture Declares Emergency</a> plus tôt, c’est au tour de l’industrie musicale du Royaume-Uni de déclarer l’urgence climatique. Par centaines, les groupes, organisations, labels en appellent aux politiques et aux médias de parler de la crise climatique, réclament une action radicale (neutralité carbone en 2030), dénoncent les injustices économiques qui sous-tendent la crise climatique, et s’engagent à faire évoluer les pratiques de l’industrie musicale pour mieux respecter l’environnement.</p>
+        <ul>
+            <li><a href="https://www.francetvinfo.fr/culture/musique/rock/en-grande-bretagne-l-industrie-musicale-declare-l-etat-d-urgence-climatique_3533119.html">Franceinfo – En Grande-Bretagne, l'industrie musicale déclare "l'état d'urgence" climatique</a></li>
+            <li><a href="https://www.musicdeclares.net/" lang="en" hreflang="en">Music Declares Emergency</a></li>
+            <li><a href="https://twitter.com/musicdeclares/status/1149599016872660992" lang="en" hreflang="en">@musicdeclares on Twitter – “We stand together as a music community to declare a climate and ecological emergency. #MusicDeclaresEmergency Find out more at http://www.musicdeclares.net”</a></li>
         </ul>
     </section>
     <section>
