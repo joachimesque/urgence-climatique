@@ -312,6 +312,7 @@
             <li><a href="https://climateemergency.uk/blog/category/climate-emergency/" lang="en" hreflang="en">Climate Emergency: Local Councils</a></li>
             <li><a href="https://www.theclimatemobilization.org/climate-emergency-campaign" lang="en" hreflang="en">The Climate Mobilization: Climate Emergency Campaign</a></li>
         </ul>
+
         <h4 id="declaration-5-decembre-2016-21-aout-2017-darebin-australie">5 décembre 2016, 21 août 2017 — Darebin, Australie</h4>
         <p>Premier conseil municipal, et première administration au monde à déclarer l’urgence climatique.<br />
             <a href="http://www.caceonline.org/the-darebin-campaign.html" lang="en" hreflang="en">The Darebin campaign</a><br/>
@@ -320,42 +321,56 @@
             <a href="http://www.darebin.vic.gov.au/Darebin-Living/Caring-for-the-environment/EnergyClimate" lang="en" hreflang="en">Darebin – Energy and Climate</a><br/>
             <q lang="en">“We recognise that we are in a state of climate emergency, and we need to restore a safe climate at emergency speed, in order to avoid dramatic and negative impacts on our community and around the world.”</q>
         </p>
+
         <h4 id="declaration-26-novembre-2018-bristol-royaume-uni">26 novembre 2018 — Bristol, Royaume-Uni</h4>
         <p><a href="https://www.bbc.co.uk/news/uk-england-bristol-46343383" lang="en" hreflang="en">Bristol’s 2030 carbon-neutral plan ’ambitious’ - BBC News</a></p>
+
         <h4 id="declaration-19-mars-2019-canton-de-vaud-suisse">19 mars 2019 — Canton de Vaud, Suisse</h4>
         <p><a href="https://www.rtn.ch/rtn/Actualite/Suisse/Le-Parlement-donne-son-feu-vert-a-l-urgence-climatique.html">Le Parlement donne son feu vert à l’urgence climatique - RTN votre radio régionale</a></p>
+
         <h4 id="declaration-27-mars-2019-nbsp-canton-de-jura-suisse">27 mars 2019 —&nbsp;Canton de Jura, Suisse</h4>
         <p><a href="https://www.rfj.ch/rfj/Actualite/Region/20190328-Le-Parlement-jurassien-declare-l-etat-d-urgence-climatique.html">Le Parlement jurassien déclare l’état d’urgence climatique - RFJ votre radio régionale</a></p>
+
         <h4 id="3-avril-2019-le-mouvement-culture-declares-emergency-rassemble-200-organisations-artistiques">3 avril 2019 — Le mouvement <span lang="en">Culture Declares Emergency</span> rassemble 200 organisations artistiques</h4>
         <p>Plus de 200 institutions, théâtres, centres artistiques, ont rejoint le mouvement <span lang="en">Culture Declares Emergency</span>, qui soutient <span lang="en">Extinction Rebellion</span>, pour s’engager dans la lutte contre la crise climatique.</p>
         <ul>
             <li><a href="https://www.thestage.co.uk/news/2019/more-than-200-new-arts-organisations-join-extinction-rebellions-culture-declares-emergency-movement/" lang="en" hreflang="en">The Stage – More than 200 arts organisations join Culture Declares Emergency movement</a></li>
             <li><a href="https://sites.google.com/view/culturedeclaresemergency/home" hreflang="en" lang="en">Culture Declares Emergency</a></li>
         </ul>
+
         <h4 id="declaration-28-avril-2019-ecosse">28 avril 2019 — Écosse</h4>
         <p><a href="https://www.bbc.com/news/uk-scotland-scotland-politics-48077802" lang="en" hreflang="en">Nicola Sturgeon declares ‘climate emergency’ at SNP conference - BBC News</a></p>
+
         <h4 id="declaration-1er-mai-2019-pays-de-galles">1er mai 2019 — Pays de Galles</h4>
         <p>
             Le gouvernement&nbsp;: <a href="https://www.bbc.com/news/uk-wales-politics-48093720" lang="en" hreflang="en">‘Climate emergency’ declared by Welsh Government - BBC News</a><br />
             L’assemblée&nbsp;: <a href="https://www.bbc.co.uk/news/uk-wales-politics-48122055" lang="en" hreflang="en">‘Climate emergency’ vote backed by Welsh Assembly - BBC News</a>
         </p>
+
         <h4 id="declaration-1er-mai-2019-royaume-uni">1er mai 2019 — Royaume-Uni</h4>
         <p><a href="https://www.bbc.com/news/uk-politics-48126677" lang="en" hreflang="en">UK Parliament declares climate change emergency - BBC News</a></p>
+
         <h4 id="declaration-9-mai-2019-mulhouse-france">9 mai 2019 — Mulhouse, France</h4>
         <p><a href="https://www.mulhouse.fr/wp-content/uploads/2019/05/Ordre-du-jour-CM-09-05-19.pdf">Mulhouse.fr&nbsp;: Ordre du jour du Conseil municipal du jeudi 9 mai 2019</a></p>
+
         <h4 id="declaration-9-mai-2019-irlande">9 mai 2019 — Irlande</h4>
         <p><a href="https://www.bbc.co.uk/news/world-europe-48221080" lang="en" hreflang="en">Climate change: Ireland declares climate emergency - BBC News</a></p>
+
         <h4 id="declaration-13-mai-2019-canton-de-zurich-suisse">13 mai 2019 — Canton de Zurich, Suisse</h4>
         <p><a href="https://www.24heures.ch/suisse/Zurich-le-parlement-pour-l-etat-durgence-climatique/story/13514202">Suisse: Zurich: le parlement pour l’état d’urgence climatique - Suisse - 24heures.ch</a></p>
+
         <h4 id="declaration-19-mai-2019-premiere-nation-vuntut-gwichin">19 mai 2019 — Première Nation Vuntut Gwichin</h4>
         <p>C’est la première fois qu’une nation tribale ou qu’un peuple autochtone déclare l’état d’urgence climatique&nbsp;: <a href="https://earther.gizmodo.com/the-first-tribal-climate-emergency-declaration-is-here-1835004654" lang="en" hreflang="en">The First Tribal Climate Emergency Declaration Is Here—and It Won't Be the Last</a></p>
+
         <h4 id="15-juin-2019-vatican">15 juin 2019 — Vatican</h4>
         <p>Le pape, chef spirituel des catholiques et chef temporel de l’État du Vatican déclare l’Urgence Climatique, non seulement au niveau de son état, mais au niveau de l’Église catholique romaine, religion qui regroupe le plus de membres à l’échelle mondiale&nbsp;: <a href="https://www.theguardian.com/environment/2019/jun/14/pope-francis-declares-climate-emergency-and-urges-action" lang="en" hreflang="en">Pope Francis declares ‘climate emergency’ and urges action</a></p>
         <blockquote>
             <p>Addressing energy leaders, pope warns of ‘catastrophic’ effects of global heating</p>
         </blockquote>
+
         <h4 id="17-juin-2019-canada-foutage-de-gueule">18 juin 2019 — <del>Canada</del></h4>
         <p>Le Canada de Justin Trudeau prouve qu’on peut être de mauvaise foi, totalement cynique, ou n’avoir absolument pas compris la situation dans laquelle on est. Le 17 juin, le Parlement déclare l’Urgence Climatique via une déclaration portée par leur Ministre de l’environnement et du changement climatique Catherine McKenna, et qui qualifie la crise de “réelle et urgente, et provoquée par l’activité humaine”. Le lendemain, le premier ministre Justin Trudeau annonce l’extension du Trans Mountain pipeline, qui doit convoyer du pétrole issu de sables bitumés de la province de l’Alberta. Parmi les justifications&nbsp;: <q lang="en">“If our country has money from our resources, we’ve got better options for investing in green energy.”</q> (<q lang="fr">“Il faut que notre pays fasse de l’argent à partir de nos ressources pour avoir de meilleures options d’investissement dans les énergies renouvelables”.</q>) Le niveau de foutage de gueule est immense, la barre du renoncement et de l’excuse bidon est placée très haut. <a href="https://www.vice.com/en_ca/article/wjvkqq/canada-justin-trudeau-declares-climate-emergency-then-approves-trans-mountain-pipeline-expansion" lang="en" hreflang="en">Canada Declares Climate Emergency, Then Approves Massive Oil Pipeline Expansion</a></p>
+
         <h4 id="26-juin-2019-new-york-city">26 juin 2019 — New York City, États-Unis d’Amérique</h4>
         <blockquote>
             <p>Whereas, Marginalized populations in New York City and worldwide, including people of color, immigrants, indigenous communities, low-income individuals, people with disabilities, and the unhoused are already disproportionately affected by climate change, and will continue to bear an excess burden as temperatures increase, oceans rise, and disasters worsen; and</p>
@@ -373,6 +388,7 @@
                 <q lang="en">The city is now the largest on earth to pass such a measure.</q>
             </li>
         </ul>
+
         <h4 id="9-juillet-2019-proposition-de-declaration-durgence-climatique-nationale-du-congres-des-etats-unis-damerique">9 juillet 2019 — Proposition de déclaration d’urgence climatique nationale du Congrès des États-Unis d’Amérique</h4>
         <p>Le sénateur Bernie Sanders (qui est candidat à la primaire du Parti Démocrate pour l’élection présidentielle américaine de 2020) et les représentants Alexandria Ocasio-Cortez (étoile montante de la frange gauche du Parti Démocrate, et initiatrice du Green New Deal) et Earl Blumenauer, proposent une résolution de déclaration d’état d’urgence climatique. Cette déclaration n’aurait pas force de loi, et est exclusivement symbolique. En revanche, elle pourrait ouvrir la voie à des nouvelles lois en faveur du climat et de l’environnement, comme le Green New Deal.</p>
         <blockquote lang="en" cite="https://www.vox.com/2019/7/9/20687526/bernie-sanders-aoc-national-climate-change-emergency">
@@ -389,6 +405,7 @@
                 <a href="https://grist.org/article/bernie-sanders-and-aoc-want-to-declare-a-climate-emergency-does-that-mean-anything/" lang="en" hreflang="en">Grist – Bernie Sanders and AOC want to declare a climate emergency. Does that mean anything?</a>
             </li>
         </ul>
+
         <h4 id="12-juillet-2019-le-mouvement-music-declares-emergency-rassemble-lindustrie-musicale-du-royaume-uni">12 juillet 2019 — Le mouvement <span lang="en">Music Declares Emergency</span> rassemble l’industrie musicale du Royaume-Uni</h4>
         <p>À la suite de <a href="#3-avril-2019-le-mouvement-culture-declares-emergency-rassemble-200-organisations-artistiques">Culture Declares Emergency</a> plus tôt, c’est au tour de l’industrie musicale du Royaume-Uni de déclarer l’urgence climatique. Par centaines, les groupes, organisations, labels en appellent aux politiques et aux médias de parler de la crise climatique, réclament une action radicale (neutralité carbone en 2030), dénoncent les injustices économiques qui sous-tendent la crise climatique, et s’engagent à faire évoluer les pratiques de l’industrie musicale pour mieux respecter l’environnement.</p>
         <ul>
@@ -396,6 +413,7 @@
             <li><a href="https://www.musicdeclares.net/" lang="en" hreflang="en">Music Declares Emergency</a></li>
             <li><a href="https://twitter.com/musicdeclares/status/1149599016872660992" lang="en" hreflang="en">@musicdeclares on Twitter – “We stand together as a music community to declare a climate and ecological emergency. #MusicDeclaresEmergency Find out more at http://www.musicdeclares.net”</a></li>
         </ul>
+
     </section>
     <section>
         <h2 id="et-nous-on-attend-quoi">Et nous, on attend quoi&nbsp;?</h2>
