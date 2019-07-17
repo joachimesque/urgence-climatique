@@ -360,10 +360,10 @@
         </blockquote>
         <ul>
             <li>
-                <a href="https://edition.cnn.com/2019/06/27/us/new-york-city-declared-climate-emergency-trnd/index.html" lang="en" hreflang=en>New York City declares a climate emergency, the first US city with more than a million residents to do so</a>
+                <a href="https://edition.cnn.com/2019/06/27/us/new-york-city-declared-climate-emergency-trnd/index.html" lang="en" hreflang=en>CNN – New York City declares a climate emergency, the first US city with more than a million residents to do so</a>
             </li>
             <li>
-                <a href="https://www.nytimes.com/2019/07/05/nyregion/climate-emergency-nyc.html" lang="en" hreflang="en">A ‘Climate Emergency’ Was Declared in New York City. Will That Change Anything?</a>
+                <a href="https://www.nytimes.com/2019/07/05/nyregion/climate-emergency-nyc.html" lang="en" hreflang="en">New York Times – A ‘Climate Emergency’ Was Declared in New York City. Will That Change Anything?</a>
                 <q lang="en">The city is now the largest on earth to pass such a measure.</q>
             </li>
         </ul>
