@@ -63,7 +63,7 @@
         <p>En prenant exemple sur la pétition anglaise qui a mené à la déclaration de l’urgence climatique au Royaume-Uni, nous pouvons bâtir un ensemble de principes, buts et moyens de les respecter, dans le cadre d’un état d’urgence climatique ; et en prenant pour exemple les mesures préconisées par l’Assemblée Citoyenne Irlandaise sur le sujet “Comment l’État peut faire de l’Irlande un meneur dans la lutte contre le changement climatique”, on peut proposer plusieurs actions que l’État français peut mettre en place dès l’adoption d’une déclaration d’Urgence Climatique.</p>
         <details>
             <summary>
-                <strong>Les revendications du mouvement Extinction Rebellion</strong>
+                <strong>Les revendications du mouvement <span lang="en">Extinction Rebellion</span></strong>
             </summary>
             <div>
                 <blockquote>
@@ -298,7 +298,7 @@
             <li>la création d’un “Comité d’action Climat, Biodiversité et Pollution”, une sorte de <abbr title="Groupe d’Experts Intergouvernemental sur l’Evolution du Climat">GIEC</abbr> pour conseiller et accompagner la ville dans ses projets ;</li>
             <li>la création d’un “Prix International de l’Écologie”.</li>
         </ul>
-        <p>En plus de ça, la ville de Paris montre son désaccord avec le Ministère de l’Intérieur en saluant les actions pacifistes et non-violentes en faveur de la cause climatique, en réaction à la <a href="https://www.francetvinfo.fr/sante/environnement-et-sante/video-paris-des-militants-ecologistes-violemment-deloges-a-l-aide-de-gaz-lacrymogenes_3513735.html">répression violente de la manifestation Extinction Rebellion sur le Pont de Sully le 28 juin 2019</a>.</p>
+        <p>En plus de ça, la ville de Paris montre son désaccord avec le Ministère de l’Intérieur en saluant les actions pacifistes et non-violentes en faveur de la cause climatique, en réaction à la <a href="https://www.francetvinfo.fr/sante/environnement-et-sante/video-paris-des-militants-ecologistes-violemment-deloges-a-l-aide-de-gaz-lacrymogenes_3513735.html">répression violente de la manifestation <span lang="en">Extinction Rebellion</span> sur le Pont de Sully le 28 juin 2019</a>.</p>
         <ul><li><a href="https://www.huffingtonpost.fr/entry/paris-se-declare-en-etat-durgence-climatique_fr_5d2481e5e4b0cfb595fbfcf6"><strong>Huffpost&nbsp;:</strong> Paris se déclare en "état d'urgence climatique"</a></li></ul>
 
     </section>
@@ -390,7 +390,7 @@
         <ul>
             <li>La plus importante action qu’on puisse faire dans la vie de tous les jours, c’est de parler de la crise climatique autour de soi. Parler des choix qu’on fait (réduire la viande, arrêter l’avion en prenant le train…), expliquer en quoi ça n’est pas si compliqué de se passer d’un luxe, et montrer l’exemple. <a href="https://www.pnas.org/content/early/2019/07/02/1906589116" title="PNAS - Discussing global warming leads to greater acceptance of climate science" hreflang="en">Une étude</a> montre bien ce lien entre parler du climat et accepter la science climatique ;</li>
             <li>grâce à <a href="https://reseauactionclimat.org/agir/"><strong>Réseau Action Climat</strong></a>, découvrez comment agir dans la vie de tous les jours, mais aussi dans votre travail et dans la vie politique ;</li>
-            <li>rejoignez <a href="https://extinctionrebellion.fr/"><strong>Extinction Rebellion</strong></a>, et participez à leurs actions de désobéissance civile, pour alerter les médias et aider à faire infléchir la politique locale et nationale ;</li>
+            <li>rejoignez <a href="https://extinctionrebellion.fr/"><strong lang="en">Extinction Rebellion</strong></a>, et participez à leurs actions de désobéissance civile, pour alerter les médias et aider à faire infléchir la politique locale et nationale ;</li>
             <li>…</li>
         </ul>
     </section>
