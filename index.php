@@ -372,10 +372,17 @@
         <h2 id="et-nous-on-attend-quoi">Et nous, on attend quoi&nbsp;?</h2>
         <h3 id="comment-agir">Comment agir&nbsp;?</h3>
         <ul>
+            <li>La plus importante action qu’on puisse faire dans la vie de tous les jours, c’est de parler de la crise climatique autour de soi. Parler des choix qu’on fait (réduire la viande, arrêter l’avion en prenant le train…), expliquer en quoi ça n’est pas si compliqué de se passer d’un luxe, et montrer l’exemple. <a href="https://www.pnas.org/content/early/2019/07/02/1906589116" title="PNAS - Discussing global warming leads to greater acceptance of climate science" hreflang="en">Une étude</a> montre bien ce lien entre parler du climat et accepter la science climatique.</li>
             <li>Grâce à <a href="https://reseauactionclimat.org/agir/"><strong>Réseau Action Climat</strong></a>, découvrez comment agir dans la vie de tous les jours, mais aussi dans votre travail et dans la vie politique.</li>
             <li>Rejoignez <a href="https://extinctionrebellion.fr/"><strong>Extinction Rebellion</strong></a>, et participez à leurs actions de désobéissance civile, pour alerter les médias.</li>
             <li>…</li>
         </ul>
+    </section>
+    <section>
+        <h2 id="discussions-et-debats">Discussions & débats</h2>
+        <h3>CheckNews.fr – A quoi sert-il de se déclarer en «&nbsp;urgence climatique&nbsp;» ?</h3>
+        <p>Dans l’article de CheckNews / Libération du 11 juin 2019, suivant la déclaration de la ville de Paris, la question de l’utilité de se déclarer en “urgence climatique” est posée. Les éléments de réponse soulignent bien le côté symbolique de ce type de déclaration.</p>
+        <blockquote><p>Là aussi, cette décision n’avait <q>«pas [eu] de conséquences directes sur la politique britannique, mais militants comme travaillistes espèrent jouer de son poids symbolique»</q>, expliquait notre collègue Nelly Didelot. Jeremy Corbyn, le leader du parti travailliste, espérait ainsi <q>«déclencher une vague d’actions venues des parlements et gouvernements du monde entier»</q>,</p></blockquote>
     </section>
     <section>
         <h2 id="faisons-vivre-ce-document">Faisons vivre ce document&nbsp;!</h2>
